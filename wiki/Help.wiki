@@ -1,0 +1,19 @@
+#summary This is the main help page for Memento Browser.
+#labels Help
+
+= Summary =
+
+Memento Browser allows you view old versions of web pages. These older versions are called "Mementos". To see an older version of the web page you are currently viewing, click the Request date button and select the date of the page you'd like to see. The browser will attempt to find a page that was archived on that precise date, and it will load the page with the closet date that it could find.
+
+If you'd like to see all the archived versions available, click the *List Mementos* button from the main menu. If you select an item from the list of available Mementos, the selected item will then appear in the browser.
+
+= Memento =
+
+Memento is an addition to the HTTP protocol which allows a client to request an archived web resource from a specific date and time. Technical details about Memento can be found at the [http://mementoweb.org/ Memento website].
+
+= About =
+
+Memento Browser was created by [http://www.harding.edu/fmccown/ Frank McCown] at Harding University.  The browser is currently displaying archived pages from a number of sources:
+ * [http://www.archive.org/ Internet Archive]
+ * [http://webcitation.org/ WebCite]
+ * and others...
