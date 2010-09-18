@@ -7,6 +7,8 @@ Memento Browser allows you view old versions of web pages. These older versions 
 
 If you'd like to see all the archived versions available, click the *List Mementos* button from the main menu. If you select an item from the list of available Mementos, the selected item will then appear in the browser.
 
+When you'd like to return to "now", click the *Return to Present* button in the main menu.
+
 = Memento =
 
 Memento is an addition to the HTTP protocol which allows a client to request an archived web resource from a specific date and time. Technical details about Memento can be found at the [http://mementoweb.org/ Memento website].
