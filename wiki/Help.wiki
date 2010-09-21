@@ -3,11 +3,19 @@
 
 = Summary =
 
-Memento Browser allows you view old versions of web pages. These older versions are called "Mementos". To see an older version of the web page you are currently viewing, click the Request date button and select the date of the page you'd like to see. The browser will attempt to find a page that was archived on that precise date, and it will load the page with the closet date that it could find.
+Memento Browser allows you view old versions of web pages. These older versions are called "Mementos". To see an older version of the web page you are currently viewing, click the *Request* date button and select the date of the page you'd like to see. The browser will attempt to find a page that was archived on that precise date, and it will load the page with the closet date that it could find.
 
-If you'd like to see all the archived versions available, click the *List Mementos* button from the main menu. If you select an item from the list of available Mementos, the selected item will then appear in the browser.
+After choosing a date, you may view all the archived versions available by clicking the *List Mementos* button from the main menu. If you select an item from the list of available Mementos, the selected item will then appear in the browser.
 
-When you'd like to return to "now", click the *Return to Present* button in the main menu.
+When you'd like to return to how the web page looks today, click the *Return to Present* button in the main menu.
+
+= Date and Time Format =
+
+You can change the date and time format by selecting *Settings* from the main menu and then selecting *Date & time settings*. Any changes to the settings will affect how the date and time are displayed in other applications.
+
+= Timegates =
+
+You may add your own custom timegates by selecting *Settings* from the main menu and selecting *Add timegate*. It is recommended you not add your own timegates unless you really know what you are doing. The default timegate at mementoproxy.lanl.gov cannot be deleted.
 
 = Memento =
 
