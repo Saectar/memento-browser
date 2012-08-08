@@ -1,4 +1,4 @@
-#Main help page for the iOS Memento Browser.
+#summary Main help page for the iOS Memento Browser.
 
 = Introduction =
 
