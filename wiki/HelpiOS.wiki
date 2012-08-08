@@ -16,14 +16,15 @@ Add your content here.  Format your content with:
   * Automatic links to other wiki pages
 
 =Timegates=
-You may add your own custom timegates by selecting Settings from the main menu and selecting Add timegate. It is recommended you not add your own timegates unless you really know what you are doing. The default timegate at mementoproxy.lanl.gov cannot be deleted.
+You may add your own custom timegates by selecting *Settings* from the main menu and typing it into the text box or selecting it from the list below. It is recommended you not add your own timegates unless you really know what you are doing. The default timegate at mementoproxy.lanl.gov cannot be deleted.
 
-=Memento=
-Memento is an addition to the HTTP protocol which allows a client to request an archived web resource from a specific date and time. Technical details about Memento can be found at the Memento website.
+= Memento =
 
-=About=
-Memento Browser was created by Steve Baber and Heather Tweedy at Harding University. The browser is currently displaying archived pages from a number of sources:
+Memento is an addition to the HTTP protocol which allows a client to request an archived web resource from a specific date and time. Technical details about Memento can be found at the [http://mementoweb.org/ Memento website].
 
-Internet Archive
-WebCite
-and others...
+= About =
+
+Memento Browser was created by [http://www.harding.edu/baber/ Steve Baber] and Heather Tweedy at Harding University.  The browser is currently displaying archived pages from a number of sources:
+ * [http://www.archive.org/ Internet Archive]
+ * [http://webcitation.org/ WebCite]
+ * and others...
