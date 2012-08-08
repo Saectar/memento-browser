@@ -1,10 +1,11 @@
 #summary Main help page for the iOS Memento Browser.
+#labels Help
 
 = Introduction =
 
-Memento Browser allows you view old versions of web pages. These older versions are called *"Mementos"*. To see an older version of the web page you are currently viewing, click the *Date* button and select the date of the page you'd like to see. The browser will attempt to find a page that was archived on that precise date, and it will load the page with the closet date that it could find.
+Memento Browser allows you view old versions of web pages. These older versions are called "Mementos". To see an older version of the web page you are currently viewing, click the *Date* button and select the date of the page you'd like to see. The browser will attempt to find a page that was archived on that precise date, and it will load the page with the closet date that it could find.
 
-You can also use the *<* and *>* buttons to navigate to other archived versions of the web page. Or you may view all the archived versions available by selecting the Mementos option from the main menu.
+You can also use the *<* and *>* buttons to navigate to other archived versions of the web page. Or you may view all the archived versions available by selecting the *Mementos* option from the main menu.
 
 If you're finished time-travelling and want to return to how the web page looks today, click the *Now* button on the navigation bar.
 
