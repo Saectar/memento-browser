@@ -31,7 +31,7 @@ Memento is an addition to the HTTP protocol which allows a client to request an 
 
 = About =
 
-Memento Browser was created by [http://www.harding.edu/baber/ Steve Baber] and Heather Tweedy at Harding University.  The browser is currently displaying archived pages from a number of sources:
+Memento Browser was created by [http://www.harding.edu/baber/ Steve Baber] and Heather Tweedy at [http://www.harding.edu/ Harding University].  The browser is currently displaying archived pages from a number of sources:
  * [http://www.archive.org/ Internet Archive]
  * [http://webcitation.org/ WebCite]
  * and others...
