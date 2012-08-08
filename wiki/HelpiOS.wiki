@@ -2,18 +2,11 @@
 
 = Introduction =
 
-Memento Browser allows you view old versions of web pages. These older versions are called "Mementos". To see an older version of the web page you are currently viewing, click the Date button and select the date of the page you'd like to see. The browser will attempt to find a page that was archived on that precise date, and it will load the page with the closet date that it could find.
+Memento Browser allows you view old versions of web pages. These older versions are called *"Mementos"*. To see an older version of the web page you are currently viewing, click the *Date* button and select the date of the page you'd like to see. The browser will attempt to find a page that was archived on that precise date, and it will load the page with the closet date that it could find.
 
-You can also use the < and > buttons to navigate to other archived versions of the web page. Or you may view all the archived versions available by selecting the Mementos option from the main menu.
+You can also use the *<* and *>* buttons to navigate to other archived versions of the web page. Or you may view all the archived versions available by selecting the Mementos option from the main menu.
 
-If you're finished time-travelling and want to return to how the web page looks today, click the Now button on the navigation bar.
-
-= Details =
-
-Add your content here.  Format your content with:
-  * Text in *bold* or _italic_
-  * Headings, paragraphs, and lists
-  * Automatic links to other wiki pages
+If you're finished time-travelling and want to return to how the web page looks today, click the *Now* button on the navigation bar.
 
 =Timegates=
 You may add your own custom timegates by selecting *Settings* from the main menu and typing it into the text box or selecting it from the list below. It is recommended you not add your own timegates unless you really know what you are doing. The default timegate at mementoproxy.lanl.gov cannot be deleted.
