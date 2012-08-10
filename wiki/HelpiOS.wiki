@@ -12,12 +12,12 @@ If you're finished time-travelling and want to return to how the web page looks 
 ==Main View==
 
 [http://cs.harding.edu/fmccown/memento/ios-main-screen.png]
-----
+<br />
 
 ==Menu==
 
 [http://cs.harding.edu/fmccown/memento/ios-menu.png]
-----
+,br />
 
 
 =Timegates=
