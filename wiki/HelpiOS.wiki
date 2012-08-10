@@ -9,17 +9,12 @@ You can also use the *<* and *>* buttons to navigate to other archived versions 
 
 If you're finished time-travelling and want to return to how the web page looks today, click the *Now* button on the navigation bar.
 
-*Main View*
+=Main View=
 
 [http://cs.harding.edu/fmccown/memento/ios-main-screen.png]
 
 
-
-
-
-==
-
-*Menu*
+=Menu=
 
 [http://cs.harding.edu/fmccown/memento/ios-menu.png]
 
