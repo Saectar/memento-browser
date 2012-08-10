@@ -19,7 +19,9 @@ _If the web page you are viewing is the current version of the page the Now butt
 _There are several different archives that store Mementos and each on has a slightly different way of building their pages._
 
 ==5. Why don't all the pictures load on a page I am viewing?==
-_When a page gets archived sometimes each element from the page doesn't get stored properly._
+_When a page gets archived sometimes an element from the page (such as a picture) isn't archived properly._
+
+<br />
 
 = General Usage =
 [http://cs.harding.edu/fmccown/memento/ios-help-screen.png]
