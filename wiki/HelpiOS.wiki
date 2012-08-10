@@ -17,6 +17,8 @@ If you're finished time-travelling and want to return to how the web page looks 
 ==Menu==
 
 [http://cs.harding.edu/fmccown/memento/ios-menu.png]
+----
+
 
 =Timegates=
 You may add your own custom timegates by selecting *Settings* from the main menu and typing it into the text box or selecting it from the list below. It is recommended you not add your own timegates unless you really know what you are doing. The default timegate at mementoproxy.lanl.gov cannot be deleted.
