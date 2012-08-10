@@ -1,0 +1,6 @@
+#summary Support page for the iOS app.
+#labels Support
+
+= Support =
+
+For questions or support please contact [tronman11@gmail.com Frank McCown] at tronman11@gmail.com.
