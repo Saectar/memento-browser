@@ -10,7 +10,7 @@ For questions or support please contact us at tronman11@gmail.com.
 _A Memento is an archived version of a web page at a particular date._
 
 ==2. Why isn't there a page for every day?==
-_The internet is far to extensive for web archivers to store everyday._
+_The Web is a very large place, and web archivists are not able to archive every web page every day._
 
 ==3. Why can't I always push the Now button?==
 _If the web page you are viewing is the current version of the page the Now button will be disabled._
