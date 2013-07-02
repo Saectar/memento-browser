@@ -1,4 +1,4 @@
-#summary This is the main help page for Memento Browser.
+#summary This is the main help page for the Android Memento Browser.
 #labels Help
 
 = Summary =
