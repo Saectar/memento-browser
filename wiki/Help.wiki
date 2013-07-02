@@ -27,3 +27,5 @@ Memento Browser was created by [http://www.harding.edu/fmccown/ Frank McCown] at
  * [http://www.archive.org/ Internet Archive]
  * [http://webcitation.org/ WebCite]
  * and others...
+
+These pages are made available via the LANL proxy (mementoproxy.lanl.gov). See the [http://www.mementoweb.org/tools/ full list] of Memento tools.
