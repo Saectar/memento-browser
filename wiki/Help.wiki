@@ -42,14 +42,6 @@ You can change the date and time format by selecting *Settings* from the main me
 
 You may add your own custom timegates by selecting *Settings* from the main menu and selecting *Add timegate*. It is recommended you not add your own timegates unless you really know what you are doing. The default timegate at mementoproxy.lanl.gov cannot be deleted.
 
-= Technical Details =
-
-Memento Browser is able to discover Mementos by sending Memento HTTP requests to a Timegate at mementoproxy.lanl.gov, a service created by the Prototyping Team at the Research Library of the Los Alamos National Laboratory. The Timegate aggregates archived pages from several web archives including the [http://www.archive.org/ Internet Archive], [http://webcitation.org/ WebCite], and others. The Internet Archive provides the majority of Mementos since they are the world's largest web archive. They began archiving the web in 1996, so you will not be able to find Mementos any older than what they have archived.
-
-Memento is an addition to the HTTP protocol which allows a client to request an archived web resource from a specific date and time. Technical details about Memento can be found at the [http://mementoweb.org/ Memento website].
-
-Memento Browser was built using the Android WebView object which allows limited control of the HTTP requests and responses it uses to load and render web pages. Therefore the browser is only able to support *simple mode* Memento. Simple mode is when the browser requests the web page's URL from a web archive, and it allows the web archive to return all the embedded images, style sheets, etc. This means that the archive is responsible for re-writing the embedded URLs so they reach back into the archive and not onto the "now" Web. This differs from *thorough mode* where the browser makes Memento requests for _all_ embedded resources.
-
 = FAQ =
 ==1. What is a Memento?==
 _A Memento is an archived version of a web page at a particular date._
@@ -65,6 +57,14 @@ _If the web page you are viewing is the current version of the page, the Now but
 
 ==5. Why are some web pages missing their pictures?==
 _When a web page is archived, especially older pages, its images aren't always archived._
+
+= Technical Details =
+
+Memento Browser is able to discover Mementos by sending Memento HTTP requests to a Timegate at mementoproxy.lanl.gov, a service created by the Prototyping Team at the Research Library of the Los Alamos National Laboratory. The Timegate aggregates archived pages from several web archives including the [http://www.archive.org/ Internet Archive], [http://webcitation.org/ WebCite], and others. The Internet Archive provides the majority of Mementos since they are the world's largest web archive. They began archiving the web in 1996, so you will not be able to find Mementos any older than what they have archived.
+
+Memento is an addition to the HTTP protocol which allows a client to request an archived web resource from a specific date and time. Technical details about Memento can be found at the [http://mementoweb.org/ Memento website].
+
+Memento Browser was built using the Android WebView object which allows limited control of the HTTP requests and responses it uses to load and render web pages. Therefore the browser is only able to support *simple mode* Memento. Simple mode is when the browser requests the web page's URL from a web archive, and it allows the web archive to return all the embedded images, style sheets, etc. This means that the archive is responsible for re-writing the embedded URLs so they reach back into the archive and not onto the "now" Web. This differs from *thorough mode* where the browser makes Memento requests for _all_ embedded resources.
 
 = About =
 
