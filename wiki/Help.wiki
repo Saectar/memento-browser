@@ -52,4 +52,4 @@ Memento Browser was built using the Android WebView object which allows limited 
 
 = About =
 
-Memento Browser was created by [http://www.harding.edu/fmccown/ Frank McCown] at Harding University. It is not as fully functional as Chrome, Firefox, or other web browsers. It was developed solely to allow you to see web pages as they once existed. Once Memento is adopted by mainstream browsers and websites, this browser will no longer be needed.
+Memento Browser was created by [http://www.harding.edu/fmccown/ Frank McCown] at Harding University. It is not as functional as major web browsers like Chrome and Firefox, but it gives you an idea of how these browsers could work in the future once Memento is widely adopted.
