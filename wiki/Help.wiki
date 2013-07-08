@@ -50,6 +50,22 @@ Memento is an addition to the HTTP protocol which allows a client to request an 
 
 Memento Browser was built using the Android WebView object which allows limited control of the HTTP requests and responses it uses to load and render web pages. Therefore the browser is only able to support *simple mode* Memento. Simple mode is when the browser requests the web page's URL from a web archive, and it allows the web archive to return all the embedded images, style sheets, etc. This means that the archive is responsible for re-writing the embedded URLs so they reach back into the archive and not onto the "now" Web. This differs from *thorough mode* where the browser makes Memento requests for _all_ embedded resources.
 
+= FAQ =
+==1. What is a Memento?==
+_A Memento is an archived version of a web page at a particular date._
+
+==2. Where do these mementos come from?==
+_There are a number of web archives like [http://archive.org/ Internet Archive], [http://www.webarchive.org.uk/ukwa/ UK Web Archive], [http://www.webcitation.org/ WebCite], and others that supply mementos._
+
+==3. Why isn't there a Memento for every day?==
+_The Web is a very large place, and web archivists are not able to archive every web page every day._
+
+==4. Why can't I always push the Now button?==
+_If the web page you are viewing is the current version of the page, the Now button will be disabled._
+
+==5. Why are some web pages missing their pictures?==
+_When a web page is archived, especially older pages, its images aren't always archived._
+
 = About =
 
 Memento Browser was created by [http://www.harding.edu/fmccown/ Frank McCown] at Harding University. It is not as functional as major web browsers like Chrome and Firefox, but it gives you an idea of how these browsers could work in the future once Memento is widely adopted.
