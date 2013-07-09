@@ -58,6 +58,9 @@ _If the web page you are viewing is the current version of the page, the Now but
 ==5. Why are some web pages missing their pictures?==
 _When a web page is archived, especially older pages, its images aren't always archived._
 
+==6. Why does it take such a long time to find Mementos for some websites?==
+_Popular websites like cnn.com are archived frequently and therefore have more Mementos. Discovering the thousands of Mementos for these sites can take up to a minute or so._
+
 = Technical Details =
 
 Memento Browser is able to discover Mementos by sending Memento HTTP requests to a Timegate at mementoproxy.lanl.gov, a service created by the Prototyping Team at the Research Library of the Los Alamos National Laboratory. The Timegate aggregates archived pages from several web archives including the [http://www.archive.org/ Internet Archive], [http://webcitation.org/ WebCite], and others. The Internet Archive provides the majority of Mementos since they are the world's largest web archive. They began archiving the web in 1996, so you will not be able to find Mementos any older than what they have archived.
