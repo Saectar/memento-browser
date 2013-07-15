@@ -4,9 +4,9 @@ Memento Browser is available for Android and iOS. Click the links below to downl
 
 = Android =
 
-[https://docs.google.com/file/d/0B8HG9jJRmTaEM3VnQ1hXTkhFLUE/edit?usp=sharing Android Source Code (version 2.0)] - Last updated July 8, 2013
+[https://docs.google.com/file/d/0B8HG9jJRmTaEM3VnQ1hXTkhFLUE/edit?usp=sharing Android Source Code (version 2.0)] - Last updated July 15, 2013
 
-[https://docs.google.com/file/d/0B8HG9jJRmTaEUDc0b2QyU1ZxRHc/edit?usp=sharing Memento Browser for Android 2.0 APK] - Last updated July 8, 2013
+[https://docs.google.com/file/d/0B8HG9jJRmTaEUDc0b2QyU1ZxRHc/edit?usp=sharing Memento Browser for Android 2.0 APK] - Last updated July 15, 2013
 
 See [http://droidlessons.com/how-to-install-non-market-third-party-apps-on-android/ these instructions] to install third party APK files on your Android device.
 
